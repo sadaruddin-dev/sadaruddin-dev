@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sadaruddin Charan.
 
-<img src= "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/6fb4a9e5-5c3b-4491-b7f0-39a7bde034ff.png" width="400" height="300">
+<img src= "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/6fb4a9e5-5c3b-4491-b7f0-39a7bde034ff.png" width="600" height="400">
 
 
 ### 
