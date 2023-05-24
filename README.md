@@ -36,7 +36,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sadaruddin-dev)
 
 
-![Rabail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadaruddin-dev)
+![Sadar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadaruddin-dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadaruddin-dev&layout=compact)
