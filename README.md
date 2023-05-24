@@ -18,12 +18,11 @@
 <img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/db56cb70-9c58-44c6-9232-6a57d3355945.png" width="50" height="50">
 <img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/128c05ff-c06c-4669-83d3-6f6af7fd5c6a.png" width="50" height="50">
 <img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/72d5b3fb-c97f-4b5c-a9d1-4622466c09e0.png" width="50" height="50">
-<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/73345859/2a5ac77a-e432-4c08-9ae8-82dbdde98c8b.png" width="50" height="50">
-<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/73345859/e7333e43-4055-42da-87f1-82480bd04f22.png" width="50" height="50">
-<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/73345859/be29540f-c460-418f-a864-2d44ba3ea7dd.png" width="50" height="50">
-<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/73345859/eaa9140e-2dce-40cb-a4a1-d686bdd8bb69.png" width="50" height="50">
-<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/73345859/5831ec3a-b548-4ac0-aff1-ef8bb4650dbb.png" width="50" height="50">
-
+<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/c51466e5-1175-406b-be52-627ac06c7f11.png" width="50" height="50">
+<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/7e5f0e85-af40-4ccf-94fd-ee156676eef9.png" width="50" height="50">
+<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/eb1e9949-2b9a-4c54-bbc3-d99e183c6d9d.png" width="50" height="50">
+<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/b10c71d0-ccc5-4d24-a83b-99778b57ff68.png" width="50" height="50">
+<img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/43e1ff6a-e8cd-4a4c-8955-b6ada1be7f77.png" width="50" height="50">
 
 
 ###                                                       📫 How to reach me: sadaruddin.sc@gmail.com
