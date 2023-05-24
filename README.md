@@ -25,6 +25,11 @@
 <img src = "https://github.com/sadaruddin-dev/sadaruddin-dev/assets/83600722/43e1ff6a-e8cd-4a4c-8955-b6ada1be7f77.png" width="50" height="50">
 
 
+###
+
+![Profile views](https://gpvc.arturio.dev/sadaruddin-dev)
+
+
 ###                                                       📫 How to reach me: sadaruddin.sc@gmail.com
 
 
